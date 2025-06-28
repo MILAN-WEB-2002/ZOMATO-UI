@@ -1,11 +1,20 @@
 
-## UI Interfaces
+## 🖥️ UI Interface Preview
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/307b5b22-cfe0-4b6e-9007-a7e04b1bd045" alt="Phone Interface" width="300"/>
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- four non‑breaking spaces act as a margin -->
-  <img src="https://github.com/user-attachments/assets/93224cae-e25d-4c9f-a3f8-cb9d68c5a435" alt="Laptop Interface" width="300"/>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/307b5b22-cfe0-4b6e-9007-a7e04b1bd045" alt="Phone Interface" width="300"/><br/>
+      <strong>📱 Phone Interface</strong>
+    </td>
+    <td width="40"></td> <!-- Space between the two -->
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/93224cae-e25d-4c9f-a3f8-cb9d68c5a435" alt="Laptop Interface" width="300"/><br/>
+      <strong>💻 Laptop Interface</strong>
+    </td>
+  </tr>
+</table>
+
 
 
 
