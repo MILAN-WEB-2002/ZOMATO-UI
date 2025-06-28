@@ -1,12 +1,20 @@
 
-# Phone Interface
+# UI Interfaces
 
-<img src="https://github.com/user-attachments/assets/307b5b22-cfe0-4b6e-9007-a7e04b1bd045" alt="iPhone UI" width="300"/>
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
+  <div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/307b5b22-cfe0-4b6e-9007-a7e04b1bd045" alt="Phone Interface" width="300"/>
+    <p><strong>Phone Interface</strong></p>
+  </div>
 
-# Lap Interface
+  <div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/93224cae-e25d-4c9f-a3f8-cb9d68c5a435" alt="Laptop Interface" width="300"/>
+    <p><strong>Lap Interface</strong></p>
+  </div>
 
-<img src="https://github.com/user-attachments/assets/93224cae-e25d-4c9f-a3f8-cb9d68c5a435" alt="Laptop UI" width="400"/>
+</div>
+
 
 
 # Zomato UI Mockup 
