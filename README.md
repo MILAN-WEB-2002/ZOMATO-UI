@@ -1,19 +1,11 @@
 
-# UI Interfaces
+## UI Interfaces
 
-<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
-
-  <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/307b5b22-cfe0-4b6e-9007-a7e04b1bd045" alt="Phone Interface" width="300"/>
-    <p><strong>Phone Interface</strong></p>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/93224cae-e25d-4c9f-a3f8-cb9d68c5a435" alt="Laptop Interface" width="300"/>
-    <p><strong>Lap Interface</strong></p>
-  </div>
-
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/307b5b22-cfe0-4b6e-9007-a7e04b1bd045" alt="Phone Interface" width="300"/>
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- four non‑breaking spaces act as a margin -->
+  <img src="https://github.com/user-attachments/assets/93224cae-e25d-4c9f-a3f8-cb9d68c5a435" alt="Laptop Interface" width="300"/>
+</p>
 
 
 
