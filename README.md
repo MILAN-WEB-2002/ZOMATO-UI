@@ -1,7 +1,13 @@
 
-# Phone Interface ![_Users_milansunny_Desktop_project_UI_index html(iPhone 14 Pro Max)](https://github.com/user-attachments/assets/307b5b22-cfe0-4b6e-9007-a7e04b1bd045)
+# Phone Interface
 
-# Lap Interface![_Users_milansunny_Desktop_project_UI_index html (1)](https://github.com/user-attachments/assets/93224cae-e25d-4c9f-a3f8-cb9d68c5a435)
+<img src="https://github.com/user-attachments/assets/307b5b22-cfe0-4b6e-9007-a7e04b1bd045" alt="iPhone UI" width="300"/>
+
+
+# Lap Interface
+
+<img src="https://github.com/user-attachments/assets/93224cae-e25d-4c9f-a3f8-cb9d68c5a435" alt="Laptop UI" width="400"/>
+
 
 # Zomato UI Mockup 
 
